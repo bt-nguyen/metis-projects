@@ -19,4 +19,5 @@ All these projects were individually produced (with the exception of project 1) 
 
 The specific project topic (outside the above mentioned) were determined by myself, primarily chosen due to interest in the topic or machine learning techniques learned by handling the data.
 
-If you have any questions, please feel free to reach out to me on LinkedIn at https://www.linkedin.com/in/bt-nguyen/
+If you have any questions, please feel free to reach out to me on LinkedIn at
+https://www.linkedin.com/in/bt-nguyen/
