@@ -3,15 +3,18 @@
 All these projects were individually produced (with the exception of project 1) by Brian Nguyen. Each project is intended to cover a specific domain of data science:
 
 
-Project 1 - Navigating through Jupyter Notebook, Pandas, and NumPy
 
-Project 2 - Regression
+* Project 1 - Navigating through Jupyter Notebook, Pandas, and NumPy
 
-Project 3 - Classification
+* Project 2 - Regression
 
-Project 4 - Natural Language Processing (NLP)
+* Project 3 - Classification
 
-Project 5 - Passion Project
+* Project 4 - Natural Language Processing (NLP)
+
+* Project 5 - Passion Project
+
+
 
 
 The specific project topic (outside the above mentioned) were determined by myself, primarily chosen due to interest in the topic or machine learning techniques learned by handling the data.
